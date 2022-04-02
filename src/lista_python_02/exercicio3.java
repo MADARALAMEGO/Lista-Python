@@ -14,7 +14,7 @@ public class exercicio3 {
         } else if (sexoInformado == 'F' || sexoInformado == 'f') {
             System.out.print("Sexo Feminino");
         } else {
-            System.out.print("Sexo inválido");
+            System.out.print("Sexo inválido");//
         }
 
     }

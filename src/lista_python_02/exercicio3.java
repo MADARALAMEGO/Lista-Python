@@ -16,6 +16,6 @@ public class exercicio3 {
         } else {
             System.out.print("Sexo inválido");//
         }
-
+        scanner.close();
     }
 }

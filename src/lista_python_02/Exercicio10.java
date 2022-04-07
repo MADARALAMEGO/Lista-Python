@@ -2,7 +2,7 @@ package lista_python_02;
 
 import java.util.Scanner;
 
-public class exercicio10 {
+public class Exercicio10 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("[M] Matutino \n");
@@ -26,3 +26,4 @@ public class exercicio10 {
         scanner.close();
     }
 }
+

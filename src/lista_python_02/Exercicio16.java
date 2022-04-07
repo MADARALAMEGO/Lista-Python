@@ -2,7 +2,7 @@ package lista_python_02;
 
 import java.util.Scanner;
 
-public class exercicio16 {
+public class Exercicio16 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite o valor de A: ");

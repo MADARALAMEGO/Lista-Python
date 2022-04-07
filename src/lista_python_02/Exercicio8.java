@@ -2,7 +2,7 @@ package lista_python_02;
 
 import java.util.Scanner;
 
-public class exercicio8 {
+public class Exercicio8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Informe o valor do produto 1: ");

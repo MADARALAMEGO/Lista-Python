@@ -2,7 +2,7 @@ package lista_python_02;
 
 import java.util.Scanner;
 
-public class exercicio15 {
+public class Exercicio15 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Informe um lado do triangulo: ");

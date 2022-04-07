@@ -2,7 +2,7 @@ package lista_python_02;
 
 import java.util.Scanner;
 
-public class exercicio14 {
+public class Exercicio14 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Informe a primeira nota do aluno: ");

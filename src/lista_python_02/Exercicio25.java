@@ -43,7 +43,7 @@ public class Exercicio25 {
         } if else (suspeita01 & suspeita02 & suspeita03 == 2 & suspeita04 == 2 & suspeita05 ||
                 suspeita01 & suspeita02 & suspeita03 == 2 & suspeita04 & suspeita05 == 2) {
             System.out.println("Você está condenado por ser cumplice do assassino.");
-        } if else (suspeita01 & suspeita02 & suspeita03 & suspeita04 == 2 & suspeita05 == 2||) {
+        } if else (suspeita01 & suspeita02 & suspeita03 & suspeita04 == 2 & suspeita05 == 2) {
             System.out.println("Você está condenado por ser cumplice do assassino.");
     }
 }
